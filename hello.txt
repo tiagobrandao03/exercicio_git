@@ -1,1 +1,5 @@
 hello world
+
+git show
+git hist
+git object
