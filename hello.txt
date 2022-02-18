@@ -4,3 +4,5 @@ commit
 git restore --source <hash do commit> <nome do arquivo>
 git clean <nome commit> -f
 git show
+$ git revert head --no-edit
+git reset
